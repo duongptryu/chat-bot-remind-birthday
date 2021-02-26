@@ -1,0 +1,36 @@
+start bot 26/02/2021, 16:00:44
+start bot 26/02/2021, 16:00:44
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "run_bot" to job store "default"
+Added job "run_bot" to job store "default"
+Scheduler started
+Scheduler started
+Looking for jobs to run
+Looking for jobs to run
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 57555.245033 seconds)
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 57555.245033 seconds)
+ * Restarting with stat
+ * Restarting with stat
+start bot 26/02/2021, 16:00:45
+start bot 26/02/2021, 16:00:45
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "run_bot" to job store "default"
+Added job "run_bot" to job store "default"
+Scheduler started
+Scheduler started
+Looking for jobs to run
+Looking for jobs to run
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 57554.102026 seconds)
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 57554.102026 seconds)
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 101-458-394
+ * Debugger PIN: 101-458-394
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [26/Feb/2021 16:01:05] "[31m[1mGET / HTTP/1.1[0m" 405 -
+127.0.0.1 - - [26/Feb/2021 16:01:05] "[31m[1mGET / HTTP/1.1[0m" 405 -
+127.0.0.1 - - [26/Feb/2021 16:01:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [26/Feb/2021 16:01:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
