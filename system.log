@@ -152,3 +152,35 @@ parsed request=ViberDeliveredRequest [event_type=delivered, timestamp=1614331135
 parsed request=ViberDeliveredRequest [event_type=delivered, timestamp=1614331135773, message_token=5546016438753843563, user_id=4mKZzRGooT0oSYp/goyx4Q==]
 127.0.0.1 - - [26/Feb/2021 16:18:56] "[37mPOST /?sig=d8b570b27701fb0d5d9d42d874cafe68ea5b2595ec3568eb48bfcbf75bf9866c HTTP/1.1[0m" 200 -
 127.0.0.1 - - [26/Feb/2021 16:18:56] "[37mPOST /?sig=d8b570b27701fb0d5d9d42d874cafe68ea5b2595ec3568eb48bfcbf75bf9866c HTTP/1.1[0m" 200 -
+start bot 26/02/2021, 16:51:26
+start bot 26/02/2021, 16:51:26
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "run_bot" to job store "default"
+Added job "run_bot" to job store "default"
+Scheduler started
+Scheduler started
+Looking for jobs to run
+Looking for jobs to run
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 54513.215262 seconds)
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 54513.215262 seconds)
+ * Restarting with stat
+ * Restarting with stat
+start bot 26/02/2021, 16:51:27
+start bot 26/02/2021, 16:51:27
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "run_bot" to job store "default"
+Added job "run_bot" to job store "default"
+Scheduler started
+Scheduler started
+Looking for jobs to run
+Looking for jobs to run
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 54512.026745 seconds)
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 54512.026745 seconds)
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 101-458-394
+ * Debugger PIN: 101-458-394
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)

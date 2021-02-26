@@ -5,6 +5,7 @@ from viberbot.api.messages.text_message import TextMessage
 from viberbot.api.viber_requests import ViberMessageRequest, ViberSubscribedRequest
 from viberbot.api.user_profile import UserProfile
 import json
+import os
 import app.Constants as Constants
 import datetime
 import logging
@@ -69,7 +70,7 @@ def get_list_users_in_month():
 
 def get_user_id(new_user_id):
     try:
-        file_reader = open("app/users.txt", "r")
+        file_reader = open(os.getcwd() + "\\app\\users.txt", "r")
         all_users = file_reader.readlines()
         file_reader.close()
 

@@ -3,6 +3,7 @@ import datetime
 import json
 import app.Constants as Constants
 import requests
+import os
 
 root_logger = logging.getLogger()
 root_logger.setLevel(logging.DEBUG)
@@ -12,7 +13,7 @@ root_logger.addHandler(handler)
 
 def read_file():
     try:
-        data_file = open('app/data.json', encoding="utf8")
+        data_file = open(os.getcwd() + '\\app\\data.json', encoding="utf8")
         data = json.load(data_file)
         data_file.close()
         return data
@@ -91,7 +92,7 @@ def create_message(data):
 def get_users_id():
     list_ids = []
     try:
-        file_reader = open("users.txt", "r")
+        file_reader = open(os.getcwd() + "\\app\\users.txt", "r")
         all_users = file_reader.readlines()
         file_reader.close()
     except:
