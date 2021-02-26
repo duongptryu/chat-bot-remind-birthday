@@ -69,7 +69,7 @@ def get_list_users_in_month():
 
 def get_user_id(new_user_id):
     try:
-        file_reader = open("users.txt", "r")
+        file_reader = open("app/users.txt", "r")
         all_users = file_reader.readlines()
         file_reader.close()
 

@@ -34,3 +34,121 @@ Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 57554.102026 seconds)
 127.0.0.1 - - [26/Feb/2021 16:01:05] "[31m[1mGET / HTTP/1.1[0m" 405 -
 127.0.0.1 - - [26/Feb/2021 16:01:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 127.0.0.1 - - [26/Feb/2021 16:01:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+start bot 26/02/2021, 16:17:00
+start bot 26/02/2021, 16:17:00
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "run_bot" to job store "default"
+Added job "run_bot" to job store "default"
+Scheduler started
+Scheduler started
+Looking for jobs to run
+Looking for jobs to run
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 56579.183758 seconds)
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 56579.183758 seconds)
+ * Restarting with stat
+ * Restarting with stat
+start bot 26/02/2021, 16:17:01
+start bot 26/02/2021, 16:17:01
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "run_bot" to job store "default"
+Added job "run_bot" to job store "default"
+Scheduler started
+Scheduler started
+Looking for jobs to run
+Looking for jobs to run
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 56578.007141 seconds)
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 56578.007141 seconds)
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 101-458-394
+ * Debugger PIN: 101-458-394
+ * Running on http://localhost:8080/ (Press CTRL+C to quit)
+ * Running on http://localhost:8080/ (Press CTRL+C to quit)
+parsing request
+parsing request
+parsed request=event_type=webhook, timestamp=1614331072053
+parsed request=event_type=webhook, timestamp=1614331072053
+127.0.0.1 - - [26/Feb/2021 16:17:52] "[37mPOST /?sig=f4e803669b7e454dda306dc8cc852d6301b8b522f7b2a2aef05ed294e0eb6449 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [26/Feb/2021 16:17:52] "[37mPOST /?sig=f4e803669b7e454dda306dc8cc852d6301b8b522f7b2a2aef05ed294e0eb6449 HTTP/1.1[0m" 200 -
+parsing request
+parsing request
+parsed request=ViberMessageRequest [event_type=message, timestamp=1614331085837, message_token=5546016232512248247, sender=UserProfile[name=Phan Tung Duong, avatar=https://media-direct.cdn.viber.com/download_photo?dlid=S5ObYurRZyaPtexMpw3TyoErTwyzvv3vBN1e6QZtgxuZM-3pcM_v0lWEDOOPnjGa2wE2xeR7NFnc_rqHLBr179OAdxTOTL0bO3TsZH-tbbdKP9YeD-2UDm28KPH60bAtMrXe9A&fltp=jpg&imsz=0000, id=4mKZzRGooT0oSYp/goyx4Q==, country=VN, language=vi-VN, api_version=8, message=TextMessage [tracking_data=None, keyboard=None, min_api_version=None, text=ádsad], chat_id=None, reply_type=None, silent=False]
+parsed request=ViberMessageRequest [event_type=message, timestamp=1614331085837, message_token=5546016232512248247, sender=UserProfile[name=Phan Tung Duong, avatar=https://media-direct.cdn.viber.com/download_photo?dlid=S5ObYurRZyaPtexMpw3TyoErTwyzvv3vBN1e6QZtgxuZM-3pcM_v0lWEDOOPnjGa2wE2xeR7NFnc_rqHLBr179OAdxTOTL0bO3TsZH-tbbdKP9YeD-2UDm28KPH60bAtMrXe9A&fltp=jpg&imsz=0000, id=4mKZzRGooT0oSYp/goyx4Q==, country=VN, language=vi-VN, api_version=8, message=TextMessage [tracking_data=None, keyboard=None, min_api_version=None, text=ádsad], chat_id=None, reply_type=None, silent=False]
+127.0.0.1 - - [26/Feb/2021 16:18:06] "[35m[1mPOST /?sig=4b3516af426fd420054af00b8d884e47f965dd64c8a68e6eae23da92aa5a80ac HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Feb/2021 16:18:06] "[35m[1mPOST /?sig=4b3516af426fd420054af00b8d884e47f965dd64c8a68e6eae23da92aa5a80ac HTTP/1.1[0m" 500 -
+parsing request
+parsing request
+parsed request=ViberMessageRequest [event_type=message, timestamp=1614331085837, message_token=5546016232512248247, sender=UserProfile[name=Phan Tung Duong, avatar=https://media-direct.cdn.viber.com/download_photo?dlid=S5ObYurRZyaPtexMpw3TyoErTwyzvv3vBN1e6QZtgxuZM-3pcM_v0lWEDOOPnjGa2wE2xeR7NFnc_rqHLBr179OAdxTOTL0bO3TsZH-tbbdKP9YeD-2UDm28KPH60bAtMrXe9A&fltp=jpg&imsz=0000, id=4mKZzRGooT0oSYp/goyx4Q==, country=VN, language=vi-VN, api_version=8, message=TextMessage [tracking_data=None, keyboard=None, min_api_version=None, text=ádsad], chat_id=None, reply_type=None, silent=False]
+parsed request=ViberMessageRequest [event_type=message, timestamp=1614331085837, message_token=5546016232512248247, sender=UserProfile[name=Phan Tung Duong, avatar=https://media-direct.cdn.viber.com/download_photo?dlid=S5ObYurRZyaPtexMpw3TyoErTwyzvv3vBN1e6QZtgxuZM-3pcM_v0lWEDOOPnjGa2wE2xeR7NFnc_rqHLBr179OAdxTOTL0bO3TsZH-tbbdKP9YeD-2UDm28KPH60bAtMrXe9A&fltp=jpg&imsz=0000, id=4mKZzRGooT0oSYp/goyx4Q==, country=VN, language=vi-VN, api_version=8, message=TextMessage [tracking_data=None, keyboard=None, min_api_version=None, text=ádsad], chat_id=None, reply_type=None, silent=False]
+127.0.0.1 - - [26/Feb/2021 16:18:07] "[35m[1mPOST /?sig=4b3516af426fd420054af00b8d884e47f965dd64c8a68e6eae23da92aa5a80ac HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Feb/2021 16:18:07] "[35m[1mPOST /?sig=4b3516af426fd420054af00b8d884e47f965dd64c8a68e6eae23da92aa5a80ac HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\Users\\Ryu\\Desktop\\Viber_bot-master\\app\\main.py', reloading
+ * Detected change in 'C:\\Users\\Ryu\\Desktop\\Viber_bot-master\\app\\main.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+start bot 26/02/2021, 16:18:49
+start bot 26/02/2021, 16:18:49
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "run_bot" to job store "default"
+Added job "run_bot" to job store "default"
+Scheduler started
+Scheduler started
+Looking for jobs to run
+Looking for jobs to run
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 56470.949200 seconds)
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 56470.949200 seconds)
+ * Restarting with stat
+ * Restarting with stat
+start bot 26/02/2021, 16:18:50
+start bot 26/02/2021, 16:18:50
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "run_bot" to job store "default"
+Added job "run_bot" to job store "default"
+Scheduler started
+Scheduler started
+Looking for jobs to run
+Looking for jobs to run
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 56469.691284 seconds)
+Next wakeup is due at 2021-02-27 08:00:00+07:00 (in 56469.691284 seconds)
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 101-458-394
+ * Debugger PIN: 101-458-394
+ * Running on http://localhost:8080/ (Press CTRL+C to quit)
+ * Running on http://localhost:8080/ (Press CTRL+C to quit)
+parsing request
+parsing request
+parsed request=ViberMessageRequest [event_type=message, timestamp=1614331133499, message_token=5546016432433748354, sender=UserProfile[name=Phan Tung Duong, avatar=https://media-direct.cdn.viber.com/download_photo?dlid=S5ObYurRZyaPtexMpw3TyoErTwyzvv3vBN1e6QZtgxuZM-3pcM_v0lWEDOOPnjGa2wE2xeR7NFnc_rqHLBr179OAdxTOTL0bO3TsZH-tbbdKP9YeD-2UDm28KPH60bAtMrXe9A&fltp=jpg&imsz=0000, id=4mKZzRGooT0oSYp/goyx4Q==, country=VN, language=vi-VN, api_version=8, message=TextMessage [tracking_data=None, keyboard=None, min_api_version=None, text=ádádsad], chat_id=None, reply_type=None, silent=False]
+parsed request=ViberMessageRequest [event_type=message, timestamp=1614331133499, message_token=5546016432433748354, sender=UserProfile[name=Phan Tung Duong, avatar=https://media-direct.cdn.viber.com/download_photo?dlid=S5ObYurRZyaPtexMpw3TyoErTwyzvv3vBN1e6QZtgxuZM-3pcM_v0lWEDOOPnjGa2wE2xeR7NFnc_rqHLBr179OAdxTOTL0bO3TsZH-tbbdKP9YeD-2UDm28KPH60bAtMrXe9A&fltp=jpg&imsz=0000, id=4mKZzRGooT0oSYp/goyx4Q==, country=VN, language=vi-VN, api_version=8, message=TextMessage [tracking_data=None, keyboard=None, min_api_version=None, text=ádádsad], chat_id=None, reply_type=None, silent=False]
+going to send messages: [<viberbot.api.messages.text_message.TextMessage object at 0x00000191F9795340>], to: 4mKZzRGooT0oSYp/goyx4Q==
+going to send messages: [<viberbot.api.messages.text_message.TextMessage object at 0x00000191F9795340>], to: 4mKZzRGooT0oSYp/goyx4Q==
+going to send message: {'type': 'text', 'text': 'Xin chào Phan Tung Duong\n - Để lấy danh sách sinh nhật tháng này, gửi:month\n - Để lấy danh sách sinh nhật hôm nay, gửi: today\n --end--', 'auth_token': '4cecb58f2667d1ea-b1a053f6e6ba653b-4ea61604e1434750', 'receiver': '4mKZzRGooT0oSYp/goyx4Q==', 'sender': {'name': 'Viber bot', 'avatar': 'http://site.com/avatar.jpg'}}
+going to send message: {'type': 'text', 'text': 'Xin chào Phan Tung Duong\n - Để lấy danh sách sinh nhật tháng này, gửi:month\n - Để lấy danh sách sinh nhật hôm nay, gửi: today\n --end--', 'auth_token': '4cecb58f2667d1ea-b1a053f6e6ba653b-4ea61604e1434750', 'receiver': '4mKZzRGooT0oSYp/goyx4Q==', 'sender': {'name': 'Viber bot', 'avatar': 'http://site.com/avatar.jpg'}}
+Starting new HTTPS connection (1): chatapi.viber.com:443
+Starting new HTTPS connection (1): chatapi.viber.com:443
+https://chatapi.viber.com:443 "POST /pa/send_message HTTP/1.1" 200 100
+https://chatapi.viber.com:443 "POST /pa/send_message HTTP/1.1" 200 100
+127.0.0.1 - - [26/Feb/2021 16:18:55] "[37mPOST /?sig=b83691cad57db15f1c1fdf1b01d1acb434c00f97dcab816938e898f80db0b960 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [26/Feb/2021 16:18:55] "[37mPOST /?sig=b83691cad57db15f1c1fdf1b01d1acb434c00f97dcab816938e898f80db0b960 HTTP/1.1[0m" 200 -
+parsing request
+parsing request
+parsed request=ViberDeliveredRequest [event_type=delivered, timestamp=1614331135418, message_token=5546016438753843563, user_id=4mKZzRGooT0oSYp/goyx4Q==]
+parsed request=ViberDeliveredRequest [event_type=delivered, timestamp=1614331135418, message_token=5546016438753843563, user_id=4mKZzRGooT0oSYp/goyx4Q==]
+127.0.0.1 - - [26/Feb/2021 16:18:55] "[37mPOST /?sig=485c9d7b95848fea05d1b252bced61ddd775ecf8de6252beb47e968c849d3e8f HTTP/1.1[0m" 200 -
+127.0.0.1 - - [26/Feb/2021 16:18:55] "[37mPOST /?sig=485c9d7b95848fea05d1b252bced61ddd775ecf8de6252beb47e968c849d3e8f HTTP/1.1[0m" 200 -
+parsing request
+parsing request
+parsed request=ViberSeenRequest [event_type=seen, timestamp=1614331135454, message_token=5546016438753843563, user_id=4mKZzRGooT0oSYp/goyx4Q==]
+parsed request=ViberSeenRequest [event_type=seen, timestamp=1614331135454, message_token=5546016438753843563, user_id=4mKZzRGooT0oSYp/goyx4Q==]
+127.0.0.1 - - [26/Feb/2021 16:18:56] "[37mPOST /?sig=a6206383a7fb09086aeb6a62522b09b62f6e6ec60acd704314107512ee937b43 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [26/Feb/2021 16:18:56] "[37mPOST /?sig=a6206383a7fb09086aeb6a62522b09b62f6e6ec60acd704314107512ee937b43 HTTP/1.1[0m" 200 -
+parsing request
+parsing request
+parsed request=ViberDeliveredRequest [event_type=delivered, timestamp=1614331135773, message_token=5546016438753843563, user_id=4mKZzRGooT0oSYp/goyx4Q==]
+parsed request=ViberDeliveredRequest [event_type=delivered, timestamp=1614331135773, message_token=5546016438753843563, user_id=4mKZzRGooT0oSYp/goyx4Q==]
+127.0.0.1 - - [26/Feb/2021 16:18:56] "[37mPOST /?sig=d8b570b27701fb0d5d9d42d874cafe68ea5b2595ec3568eb48bfcbf75bf9866c HTTP/1.1[0m" 200 -
+127.0.0.1 - - [26/Feb/2021 16:18:56] "[37mPOST /?sig=d8b570b27701fb0d5d9d42d874cafe68ea5b2595ec3568eb48bfcbf75bf9866c HTTP/1.1[0m" 200 -
