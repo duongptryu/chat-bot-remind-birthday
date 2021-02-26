@@ -12,7 +12,7 @@ root_logger.addHandler(handler)
 
 def read_file():
     try:
-        data_file = open('data.json', encoding="utf8")
+        data_file = open('app/data.json', encoding="utf8")
         data = json.load(data_file)
         data_file.close()
         return data
