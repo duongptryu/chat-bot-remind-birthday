@@ -7,4 +7,4 @@ viber = Api(BotConfiguration(
     avatar=Constants.AVATAR_URL,
     auth_token=Constants.AUTH_TOKEN
 ))
-viber.set_webhook("https://remain-birthday.herokuapp.com/")
+viber.set_webhook("https://f2056b99634f.ngrok.io")

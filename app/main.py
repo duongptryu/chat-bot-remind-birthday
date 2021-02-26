@@ -86,7 +86,7 @@ def get_user_id(new_user_id):
         else:
             continue
     if not check_exist:
-        file_write = open('users.txt', 'a')
+        file_write = open(os.getcwd() + "\\app\\users.txt", 'a')
         file_write.write("\n")
         file_write.writelines(new_user_id)
         file_reader.close()
